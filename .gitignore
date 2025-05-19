@@ -1,0 +1,29 @@
+# Lens Studio .gitignore
+
+# Cache and temp files
+.cache/
+temp/
+logs/
+*.log
+
+# Packages and build artifacts
+build/
+dist/
+*.snaplens
+
+# User/OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Snap-specific
+*.ldb
+*.lock
+
+# Optional: ignore project-specific secrets
+.env
+*.key
+
