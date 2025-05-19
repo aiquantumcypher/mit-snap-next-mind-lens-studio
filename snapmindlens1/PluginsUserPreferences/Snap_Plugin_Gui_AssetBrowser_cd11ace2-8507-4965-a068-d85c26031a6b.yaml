@@ -1,0 +1,9 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 3
+    values:
+      - Echopark.hdr
+      - SpectaclesInteractionKit.lspkg/package.native
+      - SpectaclesInteractionKitExamples.lspkg/package.native
+  options: 4
